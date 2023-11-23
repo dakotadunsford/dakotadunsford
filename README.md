@@ -1,0 +1,5 @@
+- Hello, I’m Dakota
+- I’m interested in developing stuff for macOS and iOS. 
+- I’m currently learning Swift, with an eye out for cleaner, more efficient coding practices.
+- I’m looking to collaborate on projects that are not just about code, but about building something meaningful. Whether it's an app that solves a daily problem or something that just makes people smile.
+- How to reach me Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/dakota-dunsford-goldwasser-959134232/) or email me at dakota.dunsford@outlook.com
